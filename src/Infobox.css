@@ -1,0 +1,42 @@
+.infobox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .infobox h2 {
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #ffffff;
+  }
+  
+  .MuiCard-root {
+    border-radius: 16px !important;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1) !important;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: #f5f7fa;
+  }
+  
+  .MuiCard-root:hover {
+    transform: scale(1.03);
+    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.2);
+  }
+  
+  .MuiCardMedia-root {
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+  }
+  
+  .MuiTypography-root {
+    margin: 4px 0;
+    line-height: 1.6;
+  }
+  
+  .MuiTypography-root span {
+    display: block;
+    font-size: 15px;
+    color: #000000;
+  }
+  
