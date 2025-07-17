@@ -1,4 +1,4 @@
 🌤️ Weather App — React & JavaScript Project
 
-![Weather App Screenshot](src/assets/weather app.png)
+![Weather App Screenshot](src/assets/weatherapp.png)
 
