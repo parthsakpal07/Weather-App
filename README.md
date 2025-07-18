@@ -25,3 +25,6 @@ Utilized for managing state and side effects such as fetching data when a new ci
 📱 Responsive Design
 The layout adjusts smoothly across different screen sizes for both desktop and mobile users.
 
+- Author
+  Parth Sakpal
+
