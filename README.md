@@ -1,4 +1,5 @@
 🌤️ Weather App — React & JavaScript Project
+react major project
 
 ![Weather App Screenshot](src/assets/weatherapp.png)
 
