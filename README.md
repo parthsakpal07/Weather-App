@@ -13,7 +13,7 @@ Users can input any city name to fetch and display current weather conditions.
 
 3) Maximum temperature.
 
-4) Feels like temperature.
+4) Feels like temperature
 
 5) Weather conditions (e.g., cloudy, sunny, rainy)
 
