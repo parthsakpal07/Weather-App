@@ -3,7 +3,7 @@
 ![Weather App Screenshot](src/assets/weatherapp.png)
 
 Features
-🔎 City Search Functionality
+🔎 City Search Functionality -
 Users can input any city name to fetch and display current weather conditions.
 
 📡 Real-Time Weather Data
