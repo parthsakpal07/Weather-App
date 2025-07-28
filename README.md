@@ -9,7 +9,7 @@ Users can input any city name to fetch and display current weather conditions.
 📡 Real-Time Weather Data
 1) Integrates with the OpenWeatherMap API to provide:
 
-2) Temperature (in °C)
+2) Temperature (in °C).
 
 3) Maximum temperature.
 
