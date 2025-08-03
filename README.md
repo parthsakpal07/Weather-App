@@ -15,9 +15,9 @@ Users can input any city name to fetch and display current weather conditions.
 
 4) Feels like temperature.
 
-5) Weather conditions (e.g., cloudy, sunny, rainy).
+5) Weather conditions (e.g., cloudy, sunny, rainy)
 
-6) Humidity.
+6) Humidity
 
 ⚛️ React Hooks (useState & useEffect)
 Utilized for managing state and side effects such as fetching data when a new city is searched.
