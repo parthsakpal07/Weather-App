@@ -23,7 +23,7 @@ Users can input any city name to fetch and display current weather conditions.
 Utilized for managing state and side effects such as fetching data when a new city is searched.
 
 📱 Responsive Design
-The layout adjusts smoothly across different screen sizes for both desktop and mobile users.
+The layout adjusts smoothly across different screen sizes for both desktop and mobile users
 
 Link- comming soon..
 
