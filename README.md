@@ -7,7 +7,7 @@ Features
 Users can input any city name to fetch and display current weather conditions.
 
 📡 Real-Time Weather Data
-1) Integrates with the OpenWeatherMap API to provide:
+1) Integrates with the OpenWeatherMap API to provide
 
 2) Temperature (in °C)
 
