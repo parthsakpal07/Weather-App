@@ -11,7 +11,7 @@ Users can input any city name to fetch and display current weather conditions.
 
 2) Temperature (in °C).
 
-3) Maximum temperature
+3) Maximum temperature.
 
 4) Feels like temperature.
 
